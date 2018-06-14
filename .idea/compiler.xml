@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qshconfig" />
+        <module name="qsheureka" />
+        <module name="qshservice" />
+        <module name="qshweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qianshenghua" target="1.8" />
+      <module name="qsh-eureka" target="1.8" />
+      <module name="qshconfig" target="1.8" />
+      <module name="qsheureka" target="1.8" />
+      <module name="qshservice" target="1.8" />
+      <module name="qshweb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

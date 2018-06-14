@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qianshenghua.iml" filepath="$PROJECT_DIR$/qianshenghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qshconfig/qshconfig.iml" filepath="$PROJECT_DIR$/qshconfig/qshconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qsheureka/qsheureka.iml" filepath="$PROJECT_DIR$/qsheureka/qsheureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qshservice/qshservice.iml" filepath="$PROJECT_DIR$/qshservice/qshservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qshweb/qshweb.iml" filepath="$PROJECT_DIR$/qshweb/qshweb.iml" />
+    </modules>
+  </component>
+</project>
